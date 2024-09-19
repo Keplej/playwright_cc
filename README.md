@@ -1,4 +1,4 @@
-# playwrite_cc
+# playwright_cc
 
 ## About
 - This is for learning about playwright and how to use it
